@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+pillow
+gTTS
+deep-translator
+langchain
+langchain-community
+chromadb
+sentence-transformers
